@@ -17,6 +17,8 @@
   </a>
 </p>
 
+✉️ email me: vgithzamary@gmail.com
+
 ---
 
 ### 🌟About me
