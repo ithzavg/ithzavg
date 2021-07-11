@@ -16,15 +16,63 @@
   </a>
 </p>
 
+---
+
 ### 🌟About me
 - I'm Frontend developer and Application Subject Matter Expert in Agile.
 - I love design and develop web applications and I consider myself as a forever learner.
 - Since April 2021 I'm Platzi Master student where I've been learning a lot about frontend technologies and softskills.
-	- **Platzi Master Projects**
+	
+	**Platzi Master Projects**
+	- 🛍️ The Marketplace
+	- 🎮 Roomba Game
+	- 🥕 Infinite Product List
+	- ⭐ Celebrity Wiki
+	- 💰 Save My Money
+	- 💯 Academic grades system
+	
+
 - I'm currently working in my personal blog [ithza.com](https://ithza.com/ "ithza.com")
+
+---
 
 ### ⚙️Dev Tools
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
+![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=figma&logoColor=fff)
+
+---
+
+### 📊 Agile Tools
+![Jira](https://img.shields.io/badge/_-Jira-292e33?style=flat-square&logo=Jira&logoColor=fff)
+![Trello](https://img.shields.io/badge/_-Trello-292e33?style=flat-square&logo=Trello&logoColor=fff)
+![Tara.io](https://img.shields.io/badge/_-Tara.io-292e33?style=flat-square&logo=Tara.io&logoColor=fff)
+
+---
+### 💻Favorite Stack
+
+![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
+
+![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
+![jQuery](https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff)
+![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
+![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=Redux&logoColor=fff)
+![Node](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=NodeJS&logoColor=fff)
+
+![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
+
+![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
+![npm](https://img.shields.io/badge/_-npm-292e33?style=flat-square&logo=npm&logoColor=fff)
+
+![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
+![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
+
+![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
+
+---
  
 ### 📈 Github Stats
 <div align=center>
