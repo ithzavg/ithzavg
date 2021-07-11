@@ -1,4 +1,4 @@
-<img src="./assets/ithza-cover.png">
+<img src="./assets/final-cover.png">
 <h1 align=center>Hello Im Ithza  👋</h1>
 <p align=center><b>Welcome, It's a pleasure to meet you</b></p>
 
@@ -77,8 +77,8 @@
  
 ### 📈 Github Stats
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithzavg&theme=darcula&count_private=true&hide=css,blade" alt="Ithzamary GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=ithzavg&theme=darcula&show_icons=true&count_private=true" alt="Ithzamary stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithzavg&theme=dracula&count_private=true&hide=css,blade" alt="Ithzamary GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ithzavg&theme=dracula&show_icons=true&count_private=true" alt="Ithzamary stats"/>
 </div>
 
 
