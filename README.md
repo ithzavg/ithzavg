@@ -1,3 +1,4 @@
+<img src="./assets/ithza-cover.png">
 <h1 align=center>Hello Im Ithza  👋</h1>
 <p align=center><b>Welcome, It's a pleasure to meet you</b></p>
 
