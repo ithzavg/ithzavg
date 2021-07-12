@@ -38,6 +38,16 @@
 - 💯 [Academic grades system](elegant-hermann-729528.netlify.app/)
 	
 ---
+
+### 👩‍🔬 Projects 
+**Capstone Project**
+
+This was the last project of the mastery stage in Platzi Master
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ithzavg&repo=celebrity-wiki-front)](https://github.com/anuraghazra/celebrity-wiki-front)
+
+
+---
 ### ⚙️Dev Tools
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
 ![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=figma&logoColor=fff)
