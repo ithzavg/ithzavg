@@ -25,20 +25,19 @@
 - I'm Frontend developer and Application Subject Matter Expert in Agile.
 - I love design and develop web applications and I consider myself as a forever learner.
 - Since April 2021 I'm Platzi Master student where I've been learning a lot about frontend technologies and softskills.
-	
-	**Platzi Master Projects**
-	- 🛍️ The Marketplace
-	- 🎮 Roomba Game
-	- 🥕 Infinite Product List
-	- ⭐ Celebrity Wiki
-	- 💰 Save My Money
-	- 💯 Academic grades system
-	
-
 - I'm currently working in my personal blog [ithza.com](https://ithza.com/ "ithza.com")
 
 ---
 
+### 💚 Platzi Master Projects
+- 🛍️ [The Marketplace](https://the-market-place-eta.vercel.app/)
+- 🎮 [Roomba Game](jovial-torvalds-8bac6f.netlify.app/)
+- 🥕 [Infinite Product List](https://priceless-hugle-a04f62.netlify.app/)
+- ⭐ [Celebrity Wiki](celebrity-wiki.herokuapp.com/login/)
+- 💰 [Save My Money](https://ithzavg.github.io/savemymoney/#/savemymoney)
+- 💯 [Academic grades system](elegant-hermann-729528.netlify.app/)
+	
+---
 ### ⚙️Dev Tools
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
 ![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=figma&logoColor=fff)
@@ -79,8 +78,8 @@
  
 ### 📈 Github Stats
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithzavg&theme=dracula&count_private=true&hide=css,blade" alt="Ithzamary GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=ithzavg&theme=dracula&show_icons=true&count_private=true" alt="Ithzamary stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithzavg&theme=calm&count_private=true&hide=css,blade" alt="Ithzamary GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ithzavg&theme=calm&show_icons=true&count_private=true" alt="Ithzamary stats"/>
 </div>
 
 
