@@ -44,7 +44,7 @@
 
 This was the last project of the mastery stage in Platzi Master
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ithzavg&repo=celebrity-wiki-front)](https://github.com/anuraghazra/celebrity-wiki-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ithzavg&repo=celebrity-wiki-front)](https://github.com/ithzavg/celebrity-wiki-front)
 
 
 ---
