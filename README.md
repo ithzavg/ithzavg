@@ -31,12 +31,13 @@
 
 ### 💚 Platzi Master Projects
 - 🛍️ <a href="https://the-market-place-eta.vercel.app/" target="_blank">The Marketplace</a>
-- 🎮 <a href="jovial-torvalds-8bac6f.netlify.app/" target="_blank"> Roomba game </a>
-- 🥕 <a href="https://the-market-place-eta.vercel.app/" target="_blank">  Infinite Scroll </a>
-- ⭐ <a href="celebrity-wiki.herokuapp.com/login/" target="_blank"> Celebrity Wiki </a>
+- 🎮 <a href="https://jovial-torvalds-8bac6f.netlify.app/" target="_blank"> Roomba game </a>
+- 🥕 <a href="https://priceless-hugle-a04f62.netlify.app/" target="_blank">  Infinite Products </a>
+- ⭐ <a href="https://celebrity-wiki.herokuapp.com/login/" target="_blank"> Celebrity Wiki </a>
 - 💰  <a href="https://ithzavg.github.io/savemymoney/#/savemymoney" target="_blank"> Save my Money </a>
-- 💯 <a href="elegant-hermann-729528.netlify.app/" target="_blank"> Academic Grades </a>
-	
+- 💯 <a href="https://elegant-hermann-729528.netlify.app/" target="_blank"> Academic Grades </a>
+
+
 ---
 
 ### 👩‍🔬 Projects 
