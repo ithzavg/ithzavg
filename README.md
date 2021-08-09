@@ -6,13 +6,13 @@
   <a href="https://www.linkedin.com/in/ithzamary-vilchis-garc%C3%ADa-297b07110/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ithzavg" targer="_blank">
+  <a href="https://twitter.com/ithzavg" target="_blank">
     <img alt="blog" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-   <a href="https://ithza.com/" targer="_blank">
+   <a href="https://ithza.com/" target="_blank">
     <img alt="blog" src="https://img.shields.io/badge/ithza.com-F16061?style=for-the-badge&logo=&logoColor=white" />
   </a>
-  <a href="https://platzi.com/p/ithzavg/" targer="_blank">
+  <a href="https://platzi.com/p/ithzavg/" target="_blank">
     <img src="https://camo.githubusercontent.com/b8f512d7ed5be2ff17a1859555e36c61deba17cfb0604739ac143e46a4a51e09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61747a692d3938434133462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d706c61747a69266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Platzi-98CA3F.svg?&amp;style=for-the-badge&amp;logo=platzi&amp;logoColor=white" style="max-width:100%;">
   </a>
 </p>
@@ -30,12 +30,12 @@
 ---
 
 ### 💚 Platzi Master Projects
-- 🛍️ [The Marketplace](https://the-market-place-eta.vercel.app/)
-- 🎮 [Roomba Game](jovial-torvalds-8bac6f.netlify.app/)
-- 🥕 [Infinite Product List](https://priceless-hugle-a04f62.netlify.app/)
-- ⭐ [Celebrity Wiki](celebrity-wiki.herokuapp.com/login/)
-- 💰 [Save My Money](https://ithzavg.github.io/savemymoney/#/savemymoney)
-- 💯 [Academic grades system](elegant-hermann-729528.netlify.app/)
+- 🛍️ <a href="https://the-market-place-eta.vercel.app/" target="_blank">
+- 🎮 <a href="jovial-torvalds-8bac6f.netlify.app/" target="_blank">
+- 🥕 <a href="https://the-market-place-eta.vercel.app/" target="_blank">
+- ⭐ <a href="celebrity-wiki.herokuapp.com/login/" target="_blank">
+- 💰  <a href="https://ithzavg.github.io/savemymoney/#/savemymoney" targer="_blank">
+- 💯 <a href="elegant-hermann-729528.netlify.app/" target="_blank">
 	
 ---
 
