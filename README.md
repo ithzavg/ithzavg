@@ -6,10 +6,8 @@
   <a href="https://www.linkedin.com/in/ithzamary-vilchis-garc%C3%ADa-297b07110/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ithzavg" target="_blank">
-    <img alt="blog" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-   <a href="https://ithza.com/" target="_blank">
+  
+   <a href="https://ithzavg.com/" target="_blank">
     <img alt="blog" src="https://img.shields.io/badge/ithza.com-F16061?style=for-the-badge&logo=&logoColor=white" />
   </a>
  
