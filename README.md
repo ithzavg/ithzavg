@@ -9,10 +9,7 @@
   
    <a href="https://ithzavg.com/" target="_blank">
     <img alt="blog" src="https://img.shields.io/badge/ithza.com-F16061?style=for-the-badge&logo=&logoColor=white" />
-  </a>
  
-    <img src="https://camo.githubusercontent.com/b8f512d7ed5be2ff17a1859555e36c61deba17cfb0604739ac143e46a4a51e09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61747a692d3938434133462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d706c61747a69266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Platzi-98CA3F.svg?&amp;style=for-the-badge&amp;logo=platzi&amp;logoColor=white" style="max-width:100%;">
-  </a>
 </p>
 
 ✉️ email me: vgithzamary@gmail.com
