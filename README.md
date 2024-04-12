@@ -8,7 +8,7 @@
   </a>
   
    <a href="https://ithzavg.com/" target="_blank">
-    <img alt="blog" src="https://img.shields.io/badge/ithza.com-F16061?style=for-the-badge&logo=&logoColor=white" />
+    <img alt="blog" src="https://img.shields.io/badge/ithzavg.com-F16061?style=for-the-badge&logo=&logoColor=white" />
  
 </p>
 
@@ -17,10 +17,10 @@
 ---
 
 ### 🌟About me
-- I'm Frontend developer and Application Subject Matter Expert in Agile.
+- I'm Computer Systems Engineer working in frontend development.
 - I love design and develop web applications and I consider myself as a forever learner.
 - Since April 2021 I'm Platzi Master student where I've been learning a lot about frontend technologies and softskills.
-- I'm currently working in my personal blog [ithza.com](https://ithza.com/ "ithza.com")
+- I'm currently working in my personal blog [ithzavg.com](https://ithzavg.com/ "ithzavg.com")
 
 ---
 
@@ -59,16 +59,20 @@ This was the last project of the mastery stage in Platzi Master
 ---
 ### 💻Favorite Stack
 
-![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff)
 ![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
 ![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=Redux&logoColor=fff)
 ![Node](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=NodeJS&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=fff)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
 
